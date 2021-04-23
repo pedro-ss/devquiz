@@ -7,4 +7,5 @@ class AppImages {
   static String get error => "assets/images/error.png";
   static String get trophy => "assets/images/trophy.png";
   static String get logo => "assets/images/logo.png";
+  static String get perfil => "https://avatars.githubusercontent.com/u/13071715?s=400&u=4026c3362831ace2f308a6677eacdf10ffa3d273&v=4";
 }
